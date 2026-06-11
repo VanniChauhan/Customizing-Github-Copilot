@@ -60,6 +60,20 @@
       ]
     },
     {
+      "id": "file-io-and-text-files",
+      "title": "File I/O and Working with Text Files",
+      "description": "Learn to read, write, and process files in Python for data persistence and real-world applications.",
+      "path": "assignments/file-io-and-text-files",
+      "dueDate": "2026-06-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "rest-apis-fastapi",
       "title": "Building REST APIs with FastAPI",
       "description": "Learn to build efficient, modern REST APIs using the FastAPI framework with endpoints, validation, and error handling.",
